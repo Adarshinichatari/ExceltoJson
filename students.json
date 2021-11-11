@@ -1,0 +1,79 @@
+{
+  "Details" : {
+    "student1" : [ {
+      "name" : "Adarshini",
+      "age" : 23,
+      "marks" : 560
+    } ],
+    "student2" : [ {
+      "name" : "Akhilan",
+      "age" : 24,
+      "marks" : 540
+    } ],
+    "student3" : [ {
+      "name" : "Bharghavi",
+      "age" : 22,
+      "marks" : 520
+    } ],
+    "student4" : [ {
+      "name" : "Lokesh",
+      "age" : 22,
+      "marks" : 530
+    } ],
+    "student5" : [ {
+      "name" : "Silpi Sulekha",
+      "age" : 23,
+      "marks" : 530
+    } ],
+    "student6" : [ {
+      "name" : "Dillibabu",
+      "age" : 21,
+      "marks" : 520
+    } ],
+    "student7" : [ {
+      "name" : "Sasi Kumar",
+      "age" : 24,
+      "marks" : 540
+    } ],
+    "student8" : [ {
+      "name" : "Venkatesh",
+      "age" : 24,
+      "marks" : 560
+    } ],
+    "student9" : [ {
+      "name" : "Jenith",
+      "age" : 22,
+      "marks" : 540
+    } ],
+    "student10" : [ {
+      "name" : "Priyabrat",
+      "age" : 21,
+      "marks" : 530
+    } ],
+    "student11" : [ {
+      "name" : "Atik",
+      "age" : 19,
+      "marks" : 500
+    } ],
+    "student12" : [ {
+      "name" : "Mahadev",
+      "age" : 20,
+      "marks" : 510
+    } ],
+    "student13" : [ {
+      "name" : "Shanmuga",
+      "age" : 21,
+      "marks" : 520
+    } ],
+    "student14" : [ {
+      "name" : "Prabhakaran",
+      "age" : 22,
+      "marks" : 560
+    } ],
+    "student15" : [ {
+      "name" : "Tamil Selvan",
+      "age" : 23,
+      "marks" : 550
+    } ]
+  }
+}
